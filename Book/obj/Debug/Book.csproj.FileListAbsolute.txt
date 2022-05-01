@@ -1,0 +1,10 @@
+C:\Users\USER\Desktop\Book\Book\bin\Debug\Book.exe.config
+C:\Users\USER\Desktop\Book\Book\bin\Debug\Book.exe
+C:\Users\USER\Desktop\Book\Book\bin\Debug\Book.pdb
+C:\Users\USER\Desktop\Book\Book\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\USER\Desktop\Book\Book\obj\Debug\Book.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Book\Book\obj\Debug\Book.Form1.resources
+C:\Users\USER\Desktop\Book\Book\obj\Debug\Book.Properties.Resources.resources
+C:\Users\USER\Desktop\Book\Book\obj\Debug\Book.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\Book\Book\obj\Debug\Book.exe
+C:\Users\USER\Desktop\Book\Book\obj\Debug\Book.pdb
